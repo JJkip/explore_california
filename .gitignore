@@ -6,3 +6,8 @@ log/*.log[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
